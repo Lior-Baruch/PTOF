@@ -39,13 +39,13 @@ This research aims to:
 - **Create a robust, adaptable framework** for refining dialogue agents in specialized fields.
 - **Advance the application of conversational AI** in Motivational Interviewing, with broader potential in healthcare and other areas requiring empathetic and effective dialogue.
 
-## Research Roadmap
-
-1. **Develop the Preference Tree with Look-Ahead Method**: Validate the capability of look-ahead simulations to create meaningful preference data.
-2. **Implement Iterative Training Cycles**: Use preference data to iteratively improve agent responses.
-3. **Conduct Extensive Evaluations**: Assess MI dialogue improvements, focusing on conversational quality and user satisfaction.
-4. **Refine and Broaden Applications**: Explore scalability and adaptation for real-world use in MI and related fields.
 
 ## Conclusion
 
 The **Preference Tree Optimization Framework (PTOF)** offers a new direction for goal-oriented dialogue systems by combining preference-driven, iterative improvement with strategic foresight. This framework, developed by **Lior Baruch** at **Reichman University** under the supervision of **Prof. Doron Friedman** and **Dr. Moshe Butman**, seeks to advance the potential of conversational AI. By aligning agents with nuanced goals and enhancing their empathy and decision-making abilities, PTOF brings us closer to realizing conversational systems that are both impactful and deeply responsive to human needs.
+
+
+### Further Details
+
+For an in-depth understanding of the framework, you can refer to the thesis proposal, which provides comprehensive details about the methodology and research objectives. [Open the thesis proposal PDF](./PTOF%20-%20thesis%20proposal.pdf) to learn more about the foundational concepts and approach behind the PTOF project.
+
